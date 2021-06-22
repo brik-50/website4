@@ -1,0 +1,48 @@
+#div{
+    width: 500px;
+    height: 350px;
+    margin : 25px auto;
+    padding-top: 200px;
+    background-color: rgb(226, 226, 226);
+    border-radius: 30px;
+
+}
+
+
+#email,#password{
+    padding: 10px;
+
+}
+#password{
+    margin-bottom: 5px;
+}
+#btn{
+    margin-left: 10px;
+   
+}
+p{
+    margin-top: 5px;
+}
+.btn{
+    border-color: white;
+    color:white;
+
+}
+#exampleInputEmail1{
+    padding-top:10px ;
+    padding-bottom:10px;
+}
+#exampleInputPassword1{
+    padding-top:10px ;
+    padding-bottom:10px;
+}
+.vide{
+    width: 100%;
+    height: 92px;
+
+}
+.form-control:hover, .form-control:focus{
+    outline: none;
+    border: 1px solid #eb0028;
+    box-shadow: none;
+}
